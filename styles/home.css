@@ -1,11 +1,3 @@
-body {
-  width: 100vw;
-  height: 100vh;
-  margin: 0;
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-}
-
 .banner {
   background: beige url("/assets/Banner.png");
   background-size: cover;
